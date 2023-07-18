@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">studying-shared-preferences</string>
+
+    <string name="title_login">Login</string>
+
+    <string name="hint_email">Enter with your email</string>
+    <string name="hint_password">Enter with your password</string>
+
+    <string name="button_login">Log in</string>
+    <string name="button_back"> Back </string>
+</resources>
